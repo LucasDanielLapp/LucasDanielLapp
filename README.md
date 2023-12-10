@@ -1,5 +1,5 @@
 ### Hi there 👋
-https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
+https://img.shields.io/badge/JSS-F7DF1E.svg?style=for-the-badge&logo=JSS&logoColor=black
 <!--
 **LucasDanielLapp/LucasDanielLapp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
